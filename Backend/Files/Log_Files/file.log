@@ -1,0 +1,17 @@
+2023-06-14 08:38:39,472 Exception in retrived credentials function: Expecting value: line 1 column 1 (char 0)
+2023-06-14 08:41:59,263 Exception in retrived credentials function: Expecting value: line 1 column 1 (char 0)
+2023-06-14 09:16:28,461 Exception in retrived credentials function: Expecting value: line 1 column 1 (char 0)
+2023-06-14 10:33:44,589 Exception in retrived credentials function: Expecting value: line 1 column 1 (char 0)
+2023-06-14 12:35:17,647 Exception in manage document's create document function: [Errno 11001] getaddrinfo failed
+2023-06-14 12:41:55,385 Exception in retrived credentials function: Expecting value: line 1 column 1 (char 0)
+2023-06-14 12:44:32,546 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=26 AND AccountId=0
+2023-06-14 12:48:30,514 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=26 AND AccountId=6
+2023-06-14 13:31:02,585 Exception in manage document's create document function: [Errno 11001] getaddrinfo failed
+2023-06-14 13:31:04,339 Exception in Email Service's Send Email Message Function 'emailServices' object has no attribute 'sender'
+2023-06-14 13:31:35,899 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=27 AND AccountId=6
+2023-06-14 13:32:57,504 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=27 AND AccountId=6
+2023-06-14 13:34:53,333 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=27 AND AccountId=6
+2023-06-14 13:35:06,171 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=28 AND AccountId=6
+2023-06-14 13:37:09,658 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=27 AND AccountId=6
+2023-06-14 13:52:56,914 UPDATE documenttagging.usersdocument SET Status=1 WHERE Document_Id=27 AND AccountId=6
+2023-06-14 13:52:56,916 None

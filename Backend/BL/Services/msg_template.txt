@@ -1,0 +1,5 @@
+Dear ${PERSON_NAME}, 
+You have successfully registered yourself in this course.
+Have a great weekend! 
+
+Yours Truly
